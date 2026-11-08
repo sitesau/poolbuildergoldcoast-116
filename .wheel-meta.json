@@ -1,0 +1,22 @@
+{
+  "wheel_id": 841,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-116",
+  "project": "concrete-pool-builder-gold-coast-warranty-66f48525c4127f2de5a37",
+  "parent_t1_ref": "poolbuildergoldcoast-157",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast warranty",
+  "intended_url": "http://concrete-pool-builder-gold-coast-warranty-66f48525c4127f2de5a37.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "145c5e89d531a31a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-maintenance-ea3445052ed32c225d/",
+      "anchor": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-maintenance-ea3445052ed32c225d/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
